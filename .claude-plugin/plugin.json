@@ -1,0 +1,21 @@
+{
+  "name": "superoffice",
+  "description": "AI Office Automation Skills for Claude Code",
+  "version": "1.0.0",
+  "skills": [
+    "skills/superoffice-core",
+    "skills/office-automation",
+    "skills/ppt-generator",
+    "skills/excel-analysis",
+    "skills/document-handler",
+    "skills/image-generation",
+    "skills/video-generation",
+    "skills/music-generation",
+    "skills/tts-audio",
+    "skills/deep-research"
+  ],
+  "keywords": ["office", "automation", "ppt", "excel", "ai", "minimax", "sensenova"],
+  "author": "SuperOffice Team",
+  "license": "MIT",
+  "homepage": "https://github.com/superoffice-ai/superoffice"
+}
