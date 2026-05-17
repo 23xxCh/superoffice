@@ -38,10 +38,10 @@ pip install -r requirements.txt
 
 ```bash
 # MiniMax API
-MINIMAX_API_KEY=sk-cp-2_EEt5pGYO_3Hi-RnszXjWaLysv7XBdfBKkKM0_LseLcy273su4m7mwir1Eci_V3WxlDQeCKAvzK9DU0wdQN1zcsJLyTpwIY7FibhbZALCP5MAn04WumveY
+MINIMAX_API_KEY=YOUR_MINIMAX_API_KEY
 
 # SenseNova API
-SENSENOVA_API_KEY=sk-rOIzAlaxzLhpxS2nqHqXNEuNQSnQDs4q
+SENSENOVA_API_KEY=YOUR_SENSENOVA_API_KEY
 ```
 
 ### 3. 安装MiniMax CLI (可选，用于媒体生成)

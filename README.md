@@ -38,10 +38,10 @@ Copy `.env.example` to `.env` and add your keys:
 
 ```bash
 # MiniMax API (your key)
-MINIMAX_API_KEY=sk-cp-2_EEt5pGYO_3Hi-RnszXjWaLysv7XBdfBKkKM0_LseLcy273su4m7mwir1Eci_V3WxlDQeCKAvzK9DU0wdQN1zcsJLyTpwIY7FibhbZALCP5MAn04WumveY
+MINIMAX_API_KEY=YOUR_MINIMAX_API_KEY
 
 # SenseNova API (your key)
-SENSENOVA_API_KEY=sk-rOIzAlaxzLhpxS2nqHqXNEuNQSnQDs4q
+SENSENOVA_API_KEY=YOUR_SENSENOVA_API_KEY
 ```
 
 ### 3. Install MiniMax CLI (Optional for media generation)
